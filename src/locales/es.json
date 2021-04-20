@@ -1,0 +1,17 @@
+{
+  "welcome": "¡Bienvenido!",
+  "form": {
+    "email": "Correo",
+    "password": "Contraseña",
+    "login": "Entrar"
+  },
+  "validations": {
+    "email": {
+      "required": "Debes ingresar tu correo electrónico",
+      "invalid": "El correo que ingresaste no es válido"
+    }
+  },
+  "errors": {
+    "tryLater": "Ha ocurrido un problema al iniciar, vuelve a intentarlo más tarde"
+  }
+}
